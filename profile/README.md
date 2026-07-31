@@ -1,4 +1,3 @@
-## Hi there 👋
 # Panthera0nza
 
 
