@@ -1,4 +1,4 @@
-# Panthera0nza
+# PantheraOnza
 
 
 
@@ -10,7 +10,7 @@ This GitHub is my current run in the tech world. Now I am actually learning the 
 
 
 
-## Why Panthera0nza?
+## Why PantheraOnza?
 
 
 
