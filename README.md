@@ -2,15 +2,15 @@
 
 
 
-Most people know me as a Program & Portfolio Manager. For more than a decade, I have led global digital transformation initiatives, managed multimillion-euro portfolios, and helped organizations navigate complexity across sectors like Oil & Gas, Energy, Cash Logistics, Private Security, and Strategy & Management Consulting.
+Most people at know me as a Program & Portfolio Manager. For more than a decade, I have led global digital transformation initiatives, managed multimillion-euro portfolios, and helped organizations translate strategy into real results.
 
-Those who know me closely know I am someone in constant personal transformation. A curious Virgo, guided both by intuition and reason. That combination keeps pulling me deeper — into new technologies, new paradigms, new ways of thinking about processes, systems and their governance, and how all of them can be shaped to genuinely serve people.
+And those who know me closely know that I love changes, even when I am not working. I am someone in constant personal transformation. As a curious Virgo, I am guided both by intuition and reason. That combination keeps pulling me deeper — into new technologies, new paradigms, new ways of thinking about processes, systems and their governance, and how all of them can be shaped to genuinely serve people.
 
 This GitHub is my current run in the tech world. Now I am actually learning the game engine, instead of reading the patch notes.
 
 
 
-## Why Panthera0nza?
+## Why PantheraOnza?
 
 
 
