@@ -32,4 +32,4 @@ In indigenous Amazonian traditions, the *Panthera Onza* is one of the most power
 
 
 
-Technology is changing faster than ever. The people who thrive are the ones who understand how things work at the core — and who keep learning, with intention. This repository is my commitment to mastering technology fundamentals. To learn, build, and evolve — one commit at a time.
+Technology is evolving faster than ever. Those who thrive are the ones who understand how things work at their core, and who keep learning with intention. This repository is my commitment to mastering the fundamentals of technology. To learn, build, and evolve — one commit at a time.
